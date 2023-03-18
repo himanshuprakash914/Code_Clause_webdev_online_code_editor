@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//himanshuprakash914.github.io/Code_Clause_webdev_online_code_editor/static/css/main.073c9b0a.css",
+    "main.js": "//himanshuprakash914.github.io/Code_Clause_webdev_online_code_editor/static/js/main.654abb31.js",
+    "static/js/787.87929f1a.chunk.js": "//himanshuprakash914.github.io/Code_Clause_webdev_online_code_editor/static/js/787.87929f1a.chunk.js",
+    "index.html": "//himanshuprakash914.github.io/Code_Clause_webdev_online_code_editor/index.html",
+    "main.073c9b0a.css.map": "//himanshuprakash914.github.io/Code_Clause_webdev_online_code_editor/static/css/main.073c9b0a.css.map",
+    "main.654abb31.js.map": "//himanshuprakash914.github.io/Code_Clause_webdev_online_code_editor/static/js/main.654abb31.js.map",
+    "787.87929f1a.chunk.js.map": "//himanshuprakash914.github.io/Code_Clause_webdev_online_code_editor/static/js/787.87929f1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.654abb31.js"
+  ]
+}
